@@ -1,2 +1,3 @@
 Este es el código para realizar la suma de dos números naturales
 Este es el código para realizar la resta de dos números naturales
+Comprobar que el resultado de la resta sea un número natural

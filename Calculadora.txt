@@ -3,3 +3,5 @@ Este es el código para realizar la resta de dos números naturales
 Comprobar que el resultado de la resta sea un número natural
 Este es el código para realizar la multiplicación de dos números naturales
 Función para saber cuando no se puede realizar la resta, da un mensaje de error
+Utilizar notaciones de números romanos como herramienta de apoyo para niños
+
